@@ -1,3 +1,4 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 <h1 align="center">Hi 👋, I'm Saloni Pratisruti</h1>
 <h3 align="center">A passionate UI/UX from India</h3>
 
